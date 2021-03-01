@@ -24,7 +24,7 @@ def start_here():
       <head>
         <body>
         Hi! This is the home page. 
-        <a href="http://localhost:5000/hello">Go to hello page</a>
+        <a href="/hello">Go to hello page</a>
         </body>
       </head>
     </html>
